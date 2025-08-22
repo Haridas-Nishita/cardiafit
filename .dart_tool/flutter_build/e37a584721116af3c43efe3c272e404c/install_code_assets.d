@@ -1,0 +1,1 @@
+ E:\\Components\\cardiafit\\.dart_tool\\flutter_build\\e37a584721116af3c43efe3c272e404c\\native_assets.json: 
