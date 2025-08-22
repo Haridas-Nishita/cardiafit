@@ -83,7 +83,6 @@ Here’s how we assign points based on different medical and physical factors:
 
 ## 🎥 Demo Video
 
-- [🔗 Watch Live Demo on YouTube](https://youtu.be/your-demo-link)
 - [⬇️ Download APK (Google Drive)](https://drive.google.com/file/d/1y0uLT5pFFebeldfgWsyy2pcWx2kLxqwj/view?usp=sharing)
 
 ---
@@ -146,7 +145,7 @@ This project is for educational and hackathon purposes only. It is not a certifi
 ## 📂 How to Run Locally
 
 ```bash
-git clone https://github.com/Haridas-Nishita/CardioCareAI.git
-cd CardioCareAI
+git clone https://github.com/Haridas-Nishita/cardiafit.git
+cd cardiafit
 flutter pub get
 flutter run
